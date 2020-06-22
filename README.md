@@ -4,9 +4,10 @@ A design pattern is a documented solution that has been applied successfully in 
 
 GoF gave 23 design patterns and they were categorized into three types as given below
 
-    * Creational design pattern
-    * Structural design pattern
-    * Behavioral design pattern
+      •	Creational design pattern   
+      •	Structural design pattern  
+      •	Behavioral design pattern  
+
 
 # Author
 Ajithlal K
