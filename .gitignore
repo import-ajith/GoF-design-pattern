@@ -14,6 +14,8 @@ creational-design-pattern/.idea/
 creational-design-pattern/out/
 structural-design-pattern/out/
 structural-design-pattern/.idea/
+behavioral-design-pattern/out/
+behavioral-design-pattern/.idea/
 # Package Files #
 *.jar
 *.war
